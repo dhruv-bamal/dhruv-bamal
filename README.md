@@ -14,7 +14,9 @@ Alongside development, I consistently strengthen my foundation in **Data Structu
   <a href="https://leetcode.com/bamaldhruv/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" height="150"/>
   </a>
-  &nbsp;
+  <a href="https://www.codingninjas.com/studio/profile/dhruvbamal" target="_blank">
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logoColor=white" height="150"/>
+</a>
   <a href="https://www.codechef.com/users/dhruvbamal" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="150"/>
   </a>
