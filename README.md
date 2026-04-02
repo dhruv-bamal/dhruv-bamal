@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=220&section=header&text=Dhruv%20Bamal&fontSize=65&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Ghaziabad%2C%20IN&descSize=16&descAlignY=62&descColor=8b949e" width="100%"/>
 
 <!-- ████ TYPING ANIMATION ████ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=555555&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;DSA+Grinder+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;CS+Student+%7C+Actively+Job+Hunting+%F0%9F%8E%AF" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=369E3C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;DSA+Grinder+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;CS+Student+%7C+Actively+Job+Hunting+%F0%9F%8E%AF" alt="Typing Animation" />
 
 </div>
 
