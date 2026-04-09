@@ -139,7 +139,7 @@
 const dhruv = {
   pronouns: "he/him",
   location: "Ghaziabad, India 🇮🇳",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  languages: ["JavaScript", "TypeScript", "Java", "C++"],
   hobbies: ["coding", "DSA grinding", "open source", "building in public"],
   openTo: ["internships", "open source collabs", "entry-level roles"],
   motto: "Code. Build. Ship. Repeat. 🔁",
