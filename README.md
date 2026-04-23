@@ -159,7 +159,6 @@ const dhruv = {
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dhruv_bamal)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruv.bamal)
 
 <br/>
 
