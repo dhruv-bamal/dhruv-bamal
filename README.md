@@ -48,7 +48,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css&theme=light&perline=8" />
 </p>
 
 **Frameworks & Libraries**
@@ -139,7 +139,7 @@
 const dhruv = {
   pronouns: "he/him",
   location: "Ghaziabad, India 🇮🇳",
-  languages: ["JavaScript", "TypeScript", "Java", "C++"],
+  languages: ["JavaScript", "TypeScript", "Java", "C++", "Python"],
   hobbies: ["coding", "DSA grinding", "open source", "building in public"],
   openTo: ["internships", "open source collabs", "entry-level roles"],
   motto: "Code. Build. Ship. Repeat. 🔁",
