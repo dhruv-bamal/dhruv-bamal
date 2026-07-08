@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ████ HEADER BANNER ████ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=220&section=header&text=Dhruv%20Bamal&fontSize=65&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Ghaziabad%2C%20IN&descSize=16&descAlignY=62&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=220&section=header&text=Dhruv%20Bamal&fontSize=65&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Software%20Developer%20%7C%20Ghaziabad%2C%20IN&descSize=16&descAlignY=62&descColor=8b949e" width="100%"/>
 
 <!-- ████ TYPING ANIMATION ████ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=369E3C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;DSA+Grinder+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;CS+Student+%7C+Actively+Job+Hunting+%F0%9F%8E%AF" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=369E3C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0;Building+Production+Grade+Apps%F0%9F%92%B0" alt="Typing Animation" />
 
 </div>
 
@@ -16,28 +16,28 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  Software Engineering student on a mission to go full-stack  ║
-║  Grinding DSA daily · Building in public · Job hunting hard  ║
+║  Software developer building full-stack apps end to end      ║
+║  TypeScript/React front-ends · Node/Express/Postgres APIs     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 - 🏗️ Building full-stack projects with **clean architecture** and **maintainable code**
-- 🧠 Sharpening **DSA + system design** skills for technical interviews
+- 🧠 Sharpening **DSA (C++)** and **REST API design** skills
 - 🤝 Actively looking to contribute to **open source** projects
-- 🎯 Seeking **internships / entry-level** opportunities to contribute and grow
+- 🎯 Seeking opportunities to contribute and grow as a full-stack developer
 - ⚡ Fun fact: `console.log` is my rubber duck 🦆
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
 
-## 🔭 &nbsp;Currently Learning
+## 🔭 &nbsp;Currently Learning / Building
 
 <div align="center">
 
-|  🎨 &nbsp;Frontend  |   ⚙️ &nbsp;Backend   | 🐳 &nbsp;DevOps  |
-| :-----------------: | :------------------: | :--------------: |
-| React + TypeScript  |  Node.js + Express   |      Docker      |
-| Tailwind CSS + Vite |      REST APIs       |  GitHub Actions  |
-|    Web Security     | PostgreSQL + MongoDB | Cloud Deployment |
+|     🎨 &nbsp;Frontend      |      ⚙️ &nbsp;Backend       |    🧠 &nbsp;Problem Solving    |
+| :-------------------------: | :--------------------------: | :-----------------------------: |
+|     React 18 + TypeScript   |     Node.js + Express        |      DSA in C++                |
+|     Vite + CSS Modules      |     REST API Design          |      LeetCode grind            |
+| Money Tracker (front-end)   | Money Tracker API (back-end) | PostgreSQL / Supabase schemas  |
 
 </div>
 
@@ -48,25 +48,54 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css&theme=light&perline=8" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Frameworks & Libraries**
+**Front-End**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light&perline=8" />
+  <img src="https://img.shields.io/badge/React_18-333333?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-333333?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS_Modules-333333?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Back-End**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/node--postgres-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light&perline=8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-**Tools & Platforms**
+**Tools & Practices**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=light&perline=8" />
+  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thunder_Client-333333?style=for-the-badge&logo=thunderbird&logoColor=white" />
+</p>
+
+**Deployment & Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-333333?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API_Design-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
@@ -113,7 +142,34 @@
 
 <div align="center">
 
-> 🔨 Projects are being built as part of my Full-Stack roadmap. Stay tuned!
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💰 Money Tracker**
+<br/>
+React 18 · TypeScript · Vite · Vercel
+
+Typed React app (8 components) with a framework-independent business logic layer — auto-categorization engine and recurring-subscription detection — fully decoupled from the UI.
+
+[🔗 Live Demo](https://money-tracker-drab-tau.vercel.app/) · [📂 Source](https://github.com/dhruv-bamal/money-tracker)
+<br/><sub>June 2026 – July 2026</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Money Tracker API**
+<br/>
+Node.js · Express · PostgreSQL · Supabase · Render
+
+RESTful API with parameterized CRUD queries, a normalized relational schema with foreign-key constraints, and JOIN/GROUP BY aggregation for multi-user financial data.
+
+[🔗 Deployment](https://money-tracker-api-funr.onrender.com) · [📂 Source](https://github.com/dhruv-bamal/money-tracker-api)
+<br/><sub>July 2026 – current</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -139,9 +195,10 @@
 const dhruv = {
   pronouns: "he/him",
   location: "Ghaziabad, India 🇮🇳",
-  languages: ["JavaScript", "TypeScript", "Java", "C++", "Python"],
+  languages: ["TypeScript", "JavaScript", "SQL", "Java", "C++", "C"],
+  stack: ["React", "Node.js", "Express", "PostgreSQL", "Supabase"],
   hobbies: ["coding", "DSA grinding", "open source", "building in public"],
-  openTo: ["internships", "open source collabs", "entry-level roles"],
+  openTo: ["internships", "open source collabs", "full-stack roles"],
   motto: "Code. Build. Ship. Repeat. 🔁",
   funFact: "I think in algorithms but write bugs in real life 🐛",
 };
@@ -155,10 +212,7 @@ const dhruv = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bamaldhruv1105@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-bamal/)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dhruv_bamal)
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-bamal/)
 
 <br/>
 
