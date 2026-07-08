@@ -29,6 +29,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
 
+## 🌐 &nbsp;Portfolio
+
+<div align="center">
+
+### 🚀 Explore my portfolio website
+
+<a href="https://dhruv-bamal-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**🔗 https://dhruv-bamal-portfolio.vercel.app**
+
+_Showcasing my projects, technical skills, and development journey with detailed case studies and live demos._
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+
+</div>
+
 ## 🛠️ &nbsp;Tech Stack
 
 **Languages**
