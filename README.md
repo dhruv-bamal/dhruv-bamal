@@ -29,20 +29,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
 
-## 🔭 &nbsp;Currently Learning / Building
-
-<div align="center">
-
-|     🎨 &nbsp;Frontend      |      ⚙️ &nbsp;Backend       |    🧠 &nbsp;Problem Solving    |
-| :-------------------------: | :--------------------------: | :-----------------------------: |
-|     React 18 + TypeScript   |     Node.js + Express        |      DSA in C++                |
-|     Vite + CSS Modules      |     REST API Design          |      LeetCode grind            |
-| Money Tracker (front-end)   | Money Tracker API (back-end) | PostgreSQL / Supabase schemas  |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
-
 ## 🛠️ &nbsp;Tech Stack
 
 **Languages**
