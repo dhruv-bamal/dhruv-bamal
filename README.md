@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ████ HEADER BANNER ████ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=220&section=header&text=Dhruv%20Bamal&fontSize=65&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Software%20Developer%20%7C%20Ghaziabad%2C%20IN&descSize=16&descAlignY=62&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282C34,50:21252B,100:1A1D23&height=220&section=header&text=Dhruv%20Bamal&fontSize=65&fontColor=E6E6E6&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20%7C%20AI%20%7C%20Data%20%7C%20DevOps&descSize=16&descAlignY=62&descColor=61AFEF" width="100%"/>
 
 <!-- ████ TYPING ANIMATION ████ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=369E3C&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0;Building+Production+Grade+Apps%F0%9F%92%B0" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=61AFEF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96;DevOps+%2F+CI-CD+Curious+%E2%9A%99%EF%B8%8F;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0" alt="Typing Animation" />
 
 </div>
 
@@ -45,7 +45,7 @@ const dhruv = {
 ### 🚀 Explore my portfolio website
 
 <a href="https://dhruv-bamal-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-61AFEF?style=for-the-badge&logo=vercel&logoColor=282C34" />
 </a>
 
 <br/><br/>
@@ -60,57 +60,65 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 ## 🛠️ &nbsp;Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-C678DD?style=for-the-badge&logo=typescript&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/JavaScript-C678DD?style=for-the-badge&logo=javascript&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/SQL-C678DD?style=for-the-badge&logo=postgresql&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/Java-C678DD?style=for-the-badge&logo=openjdk&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/C++-C678DD?style=for-the-badge&logo=cplusplus&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/C-C678DD?style=for-the-badge&logo=c&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/HTML5-C678DD?style=for-the-badge&logo=html5&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/CSS3-C678DD?style=for-the-badge&logo=css3&logoColor=282C34" />
 </p>
 
 **Front-End**
 
 <p>
-  <img src="https://img.shields.io/badge/React_18-333333?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-333333?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS_Modules-333333?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-61AFEF?style=for-the-badge&logo=react&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/Vite-61AFEF?style=for-the-badge&logo=vite&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/CSS_Modules-61AFEF?style=for-the-badge&logo=css3&logoColor=282C34" />
 </p>
 
 **Back-End**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/node--postgres-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-E06C75?style=for-the-badge&logo=nodedotjs&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/Express-E06C75?style=for-the-badge&logo=express&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/node--postgres-E06C75?style=for-the-badge&logo=postgresql&logoColor=282C34" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-98C379?style=for-the-badge&logo=postgresql&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/Supabase-98C379?style=for-the-badge&logo=supabase&logoColor=282C34" />
 </p>
 
 **Tools & Practices**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thunder_Client-333333?style=for-the-badge&logo=thunderbird&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E5C07B?style=for-the-badge&logo=git&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/GitHub-E5C07B?style=for-the-badge&logo=github&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/VS_Code-E5C07B?style=for-the-badge&logo=visualstudiocode&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/Thunder_Client-E5C07B?style=for-the-badge&logo=thunderbird&logoColor=282C34" />
 </p>
 
 **Deployment & Infra**
 
 <p>
-  <img src="https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-333333?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API_Design-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-61AFEF?style=for-the-badge&logo=vercel&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/Render-61AFEF?style=for-the-badge&logo=render&logoColor=282C34" />
+  <img src="https://img.shields.io/badge/REST_API_Design-61AFEF?style=for-the-badge&logo=fastapi&logoColor=282C34" />
 </p>
 
 ---
@@ -119,9 +127,9 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 <div align="center">
 
-<img src="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&icon_color=333333&text_color=8b949e&ring_color=333333&border_radius=12" height="165"/>
-<img src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=333333&text_color=8b949e&border_radius=12" height="165"/>
-<img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E05D00&fire=E05D00&currStreakLabel=E05D00&sideLabels=888888&dates=888888&currStreakNum=E05D00&sideNums=333333&border_radius=12" height="165"/>
+<img src="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12" height="165"/>
+<img src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12" height="165"/>
+<img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E5C07B&fire=E06C75&currStreakLabel=E06C75&sideLabels=ABB2BF&dates=ABB2BF&currStreakNum=E06C75&sideNums=61AFEF&border_radius=12" height="165"/>
 
 </div>
 
@@ -143,7 +151,7 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruv-bamal&bg_color=00000000&color=555555&line=555555&point=333333&area=true&area_color=dddddd&hide_border=true)](https://github.com/dhruv-bamal)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruv-bamal&bg_color=00000000&color=61AFEF&line=61AFEF&point=E06C75&area=true&area_color=98C379&hide_border=true)](https://github.com/dhruv-bamal)
 
 </div>
 
@@ -188,7 +196,7 @@ RESTful API with parameterized CRUD queries, a normalized relational schema with
 
 <br/>
 
-[![View All Repos](https://img.shields.io/badge/View%20All%20Projects-%20→-555555?style=for-the-badge&logo=github&logoColor=black)](https://github.com/dhruv-bamal?tab=repositories)
+[![View All Repos](https://img.shields.io/badge/View%20All%20Projects-%20→-61AFEF?style=for-the-badge&logo=github&logoColor=282C34)](https://github.com/dhruv-bamal?tab=repositories)
 
 </div>
 
@@ -198,7 +206,9 @@ RESTful API with parameterized CRUD queries, a normalized relational schema with
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/_dhruvbamal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-E06C75?style=for-the-badge&logo=leetcode&logoColor=282C34)](https://leetcode.com/_dhruvbamal/)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-61AFEF?style=for-the-badge&logo=codeforces&logoColor=282C34)](https://codeforces.com/profile/dhruvbamal)
 
 </div>
 
@@ -212,7 +222,7 @@ RESTful API with parameterized CRUD queries, a normalized relational schema with
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-bamal/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv-bamal)
+[![GitHub](https://img.shields.io/badge/GitHub-282C34?style=for-the-badge&logo=github&logoColor=E6E6E6)](https://github.com/dhruv-bamal)
 
 <br/>
 
@@ -222,5 +232,5 @@ _💬 Feel free to reach out — always happy to connect, collaborate, or just t
 
 <!-- ████ FOOTER BANNER ████ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1D23,50:21252B,100:282C34&height=130&section=footer" width="100%"/>
 </div>
