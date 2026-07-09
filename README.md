@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ████ HEADER BANNER ████ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282C34,50:21252B,100:1A1D23&height=220&section=header&text=Dhruv%20Bamal&fontSize=65&fontColor=E6E6E6&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20%7C%20AI%20%7C%20Data%20%7C%20DevOps&descSize=16&descAlignY=62&descColor=61AFEF" width="100%"/>
 
-<!-- ████ TYPING ANIMATION ████ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=61AFEF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96;DevOps+%2F+CI-CD+Curious+%E2%9A%99%EF%B8%8F;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=4078F2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96;DevOps+%2F+CI-CD+Curious+%E2%9A%99%EF%B8%8F;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0" />
@@ -255,7 +253,6 @@ _💬 Feel free to reach out — always happy to connect, collaborate, or just t
 
 </div>
 
-<!-- ████ FOOTER BANNER ████ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1D23,50:21252B,100:282C34&height=130&section=footer" width="100%"/>
 </div>
