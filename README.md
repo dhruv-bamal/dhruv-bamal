@@ -66,11 +66,10 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=light" />
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=dark" />
-</picture>
+<img
+  src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel"
+  alt="Tech Stack"
+/>
 
 </div>
 
