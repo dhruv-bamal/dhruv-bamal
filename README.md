@@ -152,6 +152,8 @@ _Showcasing my projects, technical skills, and development journey with detailed
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/dhruv-bamal/dhruv-bamal/main/money-tracker.svg" width="100%"/>
+
 **💰 Money Tracker**
 <br/>
 React 18 · TypeScript · Vite · Vercel
@@ -163,6 +165,8 @@ Typed React app (8 components) with a framework-independent business logic layer
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/dhruv-bamal/dhruv-bamal/main/money-tracker-api.svg" width="100%"/>
 
 **⚙️ Money Tracker API**
 <br/>
