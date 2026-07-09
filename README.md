@@ -8,10 +8,6 @@
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
-
 ## 🧑‍💻 &nbsp;About Me
 
 ```text
@@ -27,7 +23,20 @@
 - 🎯 Seeking opportunities to contribute and grow as a full-stack developer
 - ⚡ Fun fact: `console.log` is my rubber duck 🦆
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+```javascript
+const dhruv = {
+  pronouns: "he/him",
+  location: "Ghaziabad, India 🇮🇳",
+  languages: ["TypeScript", "JavaScript", "SQL", "Java", "C++", "C"],
+  stack: ["React", "Node.js", "Express", "PostgreSQL", "Supabase"],
+  hobbies: ["coding", "DSA grinding", "open source", "building in public"],
+  openTo: ["internships", "open source collabs", "full-stack roles"],
+  motto: "Code. Build. Ship. Repeat. 🔁",
+  funFact: "I think in algorithms but write bugs in real life 🐛",
+};
+```
+
+---
 
 ## 🌐 &nbsp;Portfolio
 
@@ -45,9 +54,9 @@
 
 _Showcasing my projects, technical skills, and development journey with detailed case studies and live demos._
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
-
 </div>
+
+---
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -104,23 +113,19 @@ _Showcasing my projects, technical skills, and development journey with detailed
   <img src="https://img.shields.io/badge/REST_API_Design-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&icon_color=333333&text_color=8b949e&ring_color=333333&border_radius=12" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=333333&text_color=8b949e&border_radius=12" height="175"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E05D00&fire=E05D00&currStreakLabel=E05D00&sideLabels=888888&dates=888888&currStreakNum=E05D00&sideNums=333333&border_radius=12" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&icon_color=333333&text_color=8b949e&ring_color=333333&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=333333&text_color=8b949e&border_radius=12" height="165"/>
+<img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E05D00&fire=E05D00&currStreakLabel=E05D00&sideLabels=888888&dates=888888&currStreakNum=E05D00&sideNums=333333&border_radius=12" height="165"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 🐍 &nbsp;Eating My Contributions
 
@@ -132,7 +137,7 @@ _Showcasing my projects, technical skills, and development journey with detailed
 </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 📈 &nbsp;Contribution Graph
 
@@ -142,7 +147,7 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -187,7 +192,7 @@ RESTful API with parameterized CRUD queries, a normalized relational schema with
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 👾 &nbsp;Coding Profiles
 
@@ -197,24 +202,7 @@ RESTful API with parameterized CRUD queries, a normalized relational schema with
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
-
-## 🎲 &nbsp;Fun Facts
-
-```javascript
-const dhruv = {
-  pronouns: "he/him",
-  location: "Ghaziabad, India 🇮🇳",
-  languages: ["TypeScript", "JavaScript", "SQL", "Java", "C++", "C"],
-  stack: ["React", "Node.js", "Express", "PostgreSQL", "Supabase"],
-  hobbies: ["coding", "DSA grinding", "open source", "building in public"],
-  openTo: ["internships", "open source collabs", "full-stack roles"],
-  motto: "Code. Build. Ship. Repeat. 🔁",
-  funFact: "I think in algorithms but write bugs in real life 🐛",
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 🫶 &nbsp;Connect With Me
 
@@ -231,8 +219,6 @@ const dhruv = {
 _💬 Feel free to reach out — always happy to connect, collaborate, or just talk code!_
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ████ FOOTER BANNER ████ -->
 <div align="center">
