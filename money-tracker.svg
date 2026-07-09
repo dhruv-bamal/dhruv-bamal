@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="'JetBrains Mono', ui-monospace, monospace">
+  <style>
+    @keyframes bob { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-28px) } }
+    @keyframes fill { 0% { transform: scaleX(0) } 40% { transform: scaleX(1) } 85% { transform: scaleX(1) } 100% { transform: scaleX(0) } }
+    @keyframes rise { 0% { opacity: 0; transform: translateY(0) } 14% { opacity: 1 } 60% { opacity: 1 } 100% { opacity: 0; transform: translateY(-90px) } }
+    .coin { transform-box: fill-box; transform-origin: center; animation: bob 2.2s ease-in-out infinite }
+    .c2 { animation-delay: .35s } .c3 { animation-delay: .7s }
+    .barfill { transform-box: fill-box; transform-origin: left center; animation: fill 5s ease-in-out infinite }
+    .r1 { animation: rise 3.6s ease-in-out infinite }
+    .r2 { animation: rise 3.6s ease-in-out infinite 1.2s }
+    .r3 { animation: rise 3.6s ease-in-out infinite 2.4s }
+  </style>
+  <rect width="1200" height="900" fill="#282C34"/>
+  <g stroke="rgba(255,255,255,0.05)" stroke-width="2">
+    <line x1="0" y1="225" x2="1200" y2="225"/>
+    <line x1="0" y1="450" x2="1200" y2="450"/>
+    <line x1="0" y1="675" x2="1200" y2="675"/>
+    <line x1="300" y1="0" x2="300" y2="900"/>
+    <line x1="600" y1="0" x2="600" y2="900"/>
+    <line x1="900" y1="0" x2="900" y2="900"/>
+  </g>
+
+  <text x="90" y="150" fill="#ABB2BF" font-size="30" letter-spacing="8">MONTHLY BUDGET</text>
+  <text x="90" y="242" fill="#E6E6E6" font-size="92" font-weight="700">₹4,296</text>
+  <text x="90" y="298" fill="#61AFEF" font-size="30" letter-spacing="2">Remaining ₹5,704</text>
+
+  <g class="coin"><circle cx="850" cy="255" r="62" fill="#61AFEF"/><text x="850" y="282" text-anchor="middle" fill="#282C34" font-size="72" font-weight="700">₹</text></g>
+  <g class="coin c2"><circle cx="985" cy="320" r="46" fill="#98C379"/><text x="985" y="342" text-anchor="middle" fill="#282C34" font-size="54" font-weight="700">₹</text></g>
+  <g class="coin c3"><circle cx="1090" cy="245" r="52" fill="#C678DD"/><text x="1090" y="269" text-anchor="middle" fill="#282C34" font-size="60" font-weight="700">₹</text></g>
+
+  <text class="r1" x="785" y="530" fill="#98C379" font-size="34" font-weight="700">+₹250</text>
+  <text class="r2" x="1075" y="505" fill="#E5C07B" font-size="34" font-weight="700">+₹99</text>
+  <text class="r3" x="930" y="550" fill="#C678DD" font-size="34" font-weight="700">+₹450</text>
+
+  <rect x="90" y="700" width="1020" height="42" rx="21" fill="rgba(255,255,255,0.08)"/>
+  <rect class="barfill" x="90" y="700" width="439" height="42" rx="21" fill="#61AFEF"/>
+  <text x="90" y="792" fill="#ABB2BF" font-size="28" letter-spacing="4">43% USED</text>
+</svg>
