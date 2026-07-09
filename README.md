@@ -119,8 +119,8 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&icon_color=333333&text_color=8b949e&ring_color=333333&border_radius=12" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=333333&text_color=8b949e&border_radius=12" height="165"/>
+<img src="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&icon_color=333333&text_color=8b949e&ring_color=333333&border_radius=12" height="165"/>
+<img src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=333333&text_color=8b949e&border_radius=12" height="165"/>
 <img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E05D00&fire=E05D00&currStreakLabel=E05D00&sideLabels=888888&dates=888888&currStreakNum=E05D00&sideNums=333333&border_radius=12" height="165"/>
 
 </div>
