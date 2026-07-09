@@ -4,7 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282C34,50:21252B,100:1A1D23&height=220&section=header&text=Dhruv%20Bamal&fontSize=65&fontColor=E6E6E6&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20%7C%20AI%20%7C%20Data%20%7C%20DevOps&descSize=16&descAlignY=62&descColor=61AFEF" width="100%"/>
 
 <!-- ████ TYPING ANIMATION ████ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=61AFEF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96;DevOps+%2F+CI-CD+Curious+%E2%9A%99%EF%B8%8F;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0" alt="Typing Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=61AFEF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96;DevOps+%2F+CI-CD+Curious+%E2%9A%99%EF%B8%8F;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=4078F2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96;DevOps+%2F+CI-CD+Curious+%E2%9A%99%EF%B8%8F;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=61AFEF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96;DevOps+%2F+CI-CD+Curious+%E2%9A%99%EF%B8%8F;DSA+Grinder+in+C%2B%2B+%F0%9F%A7%A0" alt="Typing Animation" />
+</picture>
 
 </div>
 
@@ -62,7 +66,11 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,postgres,supabase,cpp,java,git,github,vscode,vercel&theme=dark" />
+</picture>
 
 </div>
 
@@ -127,9 +135,21 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 <div align="center">
 
-<img src="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12" height="165"/>
-<img src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12" height="165"/>
-<img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E5C07B&fire=E06C75&currStreakLabel=E06C75&sideLabels=ABB2BF&dates=ABB2BF&currStreakNum=E06C75&sideNums=61AFEF&border_radius=12" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=4078F2&icon_color=50A14F&text_color=696C77&ring_color=A626A4&border_radius=12" />
+  <img src="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=4078F2&text_color=696C77&border_radius=12" />
+  <img src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E5C07B&fire=E06C75&currStreakLabel=E06C75&sideLabels=ABB2BF&dates=ABB2BF&currStreakNum=E06C75&sideNums=61AFEF&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=C18401&fire=E45649&currStreakLabel=E45649&sideLabels=696C77&dates=696C77&currStreakNum=E45649&sideNums=4078F2&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E5C07B&fire=E06C75&currStreakLabel=E06C75&sideLabels=ABB2BF&dates=ABB2BF&currStreakNum=E06C75&sideNums=61AFEF&border_radius=12" height="165"/>
+</picture>
 
 </div>
 
@@ -151,7 +171,13 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruv-bamal&bg_color=00000000&color=61AFEF&line=61AFEF&point=E06C75&area=true&area_color=98C379&hide_border=true)](https://github.com/dhruv-bamal)
+<a href="https://github.com/dhruv-bamal">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-bamal&bg_color=00000000&color=61AFEF&line=61AFEF&point=E06C75&area=true&area_color=98C379&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-bamal&bg_color=00000000&color=4078F2&line=4078F2&point=E45649&area=true&area_color=50A14F&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-bamal&bg_color=00000000&color=61AFEF&line=61AFEF&point=E06C75&area=true&area_color=98C379&hide_border=true" />
+</picture>
+</a>
 
 </div>
 
