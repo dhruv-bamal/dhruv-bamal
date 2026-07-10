@@ -133,19 +133,48 @@ _Showcasing my projects, technical skills, and development journey with detailed
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=4078F2&icon_color=50A14F&text_color=696C77&ring_color=A626A4&border_radius=12" />
-  <img src="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12" height="165"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=4078F2&icon_color=50A14F&text_color=696C77&ring_color=A626A4&border_radius=12"
+  />
+  <img
+    src="https://dhruvbamal-github-readme-stats.vercel.app/api?username=dhruv-bamal&show_icons=true&hide_border=true&bg_color=00000000&title_color=61AFEF&icon_color=98C379&text_color=ABB2BF&ring_color=C678DD&border_radius=12"
+    height="165"
+  />
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=4078F2&text_color=696C77&border_radius=12" />
-  <img src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12" height="165"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=4078F2&text_color=696C77&border_radius=12"
+  />
+  <img
+    src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12"
+    height="165"
+  />
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E5C07B&fire=E06C75&currStreakLabel=E06C75&sideLabels=ABB2BF&dates=ABB2BF&currStreakNum=E06C75&sideNums=61AFEF&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=C18401&fire=E45649&currStreakLabel=E45649&sideLabels=696C77&dates=696C77&currStreakNum=E45649&sideNums=4078F2&border_radius=12" />
-  <img src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=E5C07B&fire=E06C75&currStreakLabel=E06C75&sideLabels=ABB2BF&dates=ABB2BF&currStreakNum=E06C75&sideNums=61AFEF&border_radius=12" height="165"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&currStreakNum=FFA500&sideLabels=ABB2BF&dates=ABB2BF&sideNums=61AFEF&border_radius=12"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&currStreakNum=FF8C00&sideLabels=696C77&dates=696C77&sideNums=4078F2&border_radius=12"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&currStreakNum=FFA500&sideLabels=ABB2BF&dates=ABB2BF&sideNums=61AFEF&border_radius=12"
+    height="165"
+  />
 </picture>
 
 </div>
