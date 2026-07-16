@@ -221,7 +221,7 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 **💰 Money Tracker**
 <br/>
-React 18 · Next.js · TypeScript · Vite · Vercel
+React 18 · Next.js · TypeScript · Vercel
 
 Typed React app (8 components) with a framework-independent business logic layer — auto-categorization engine and recurring-subscription detection — fully decoupled from the UI.
 
