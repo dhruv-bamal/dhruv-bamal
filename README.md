@@ -221,11 +221,11 @@ _Showcasing my projects, technical skills, and development journey with detailed
 
 **💰 Money Tracker**
 <br/>
-React 18 · TypeScript · Vite · Vercel
+React 18 · Next.js · TypeScript · Vite · Vercel
 
 Typed React app (8 components) with a framework-independent business logic layer — auto-categorization engine and recurring-subscription detection — fully decoupled from the UI.
 
-[🔗 Live Demo](https://money-tracker-drab-tau.vercel.app/) · [📂 Source](https://github.com/dhruv-bamal/money-tracker)
+[🔗 Live Demo](https://money-tracker-next-mu.vercel.app/) · [📂 Source](https://github.com/dhruv-bamal/money-tracker-next)
 <br/><sub>June 2026 – July 2026</sub>
 
 </td>
