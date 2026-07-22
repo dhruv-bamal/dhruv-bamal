@@ -135,21 +135,6 @@ _Showcasing my projects, technical skills, and development journey with detailed
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=4078F2&text_color=696C77&border_radius=12"
-  />
-  <img
-    src="https://dhruvbamal-github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bamal&layout=compact&hide_border=true&bg_color=00000000&title_color=61AFEF&text_color=ABB2BF&border_radius=12"
-    height="165"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com?user=dhruv-bamal&hide_border=true&background=00000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&currStreakNum=FFA500&sideLabels=ABB2BF&dates=ABB2BF&sideNums=61AFEF&border_radius=12"
   />
   <source
