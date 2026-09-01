@@ -46,7 +46,7 @@ const dhruv = {
 
 ### 🚀 Explore my portfolio website
 
-<a href="https://dhruv-bamal-portfolio.vercel.app" target="_blank">
+<a href="https://dhruv-bamal.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-61AFEF?style=for-the-badge&logo=vercel&logoColor=282C34" />
 </a>
 
