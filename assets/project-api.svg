@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="220" viewBox="0 0 590 220" role="img" aria-labelledby="t d">
+<title id="t">URL Shortener API</title><desc id="d">JWT authentication, user-owned links and PostgreSQL. TypeScript, Node.js, Express. View repository.</desc>
+<rect x="7" y="7" width="581" height="211" rx="12" fill="#bc8b60"/><rect x="1" y="1" width="580" height="210" rx="12" fill="#edb271" stroke="#160f0e" stroke-width="2"/>
+<text x="23" y="30" font-family="monospace" font-weight="bold" font-size="14" fill="#5b3624">01 / BACKEND ENGINEERING</text>
+<text x="23" y="72" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="33" fill="#160f0e">Small links. Solid logic.</text>
+<text x="23" y="104" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="20" fill="#160f0e">URL Shortener API</text>
+<text x="23" y="134" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#43261b">JWT auth · User-owned links · PostgreSQL</text>
+<path d="M23 153H555" stroke="#bb814e"/>
+<text x="23" y="184" font-family="monospace" font-size="14" fill="#43261b">TypeScript / Node.js / Express</text>
+<rect x="402" y="164" width="153" height="32" rx="3" fill="#160f0e"/><text x="416" y="185" font-family="monospace" font-size="14" font-weight="bold" fill="#edb271">VIEW REPO ↗</text>
+<path d="M534 21L551 21L551 38M551 21L532 40" fill="none" stroke="#160f0e" stroke-width="3"/>
+</svg>

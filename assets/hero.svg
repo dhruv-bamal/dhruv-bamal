@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Dhruv Bamal</title><desc id="desc">A warm sepia comic collage with an original bat-cowled terminal, amber light and red hearts, inspired by my GitHub avatar.</desc>
+<defs>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#382620" stroke-width="1"/></pattern>
+ <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#211410"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#d99455"/><stop offset="1" stop-color="#7c5235"/></radialGradient>
+</defs>
+<rect width="1200" height="340" rx="16" fill="#160f0e"/>
+<rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+<path d="M750 0H1200V340H750L865 175Z" fill="#68452f"/>
+<path d="M894 0L949 165L1037 0M1200 75L988 183L1200 264M865 340L956 193L1060 340" fill="#89613e"/>
+<path d="M1110 0H1200V122Z" fill="#c35849"/>
+<path d="M1125 0H1200V105Z" fill="url(#dots)"/>
+<path d="M0 285L162 340H0Z" fill="#b8885f"/>
+<g transform="translate(31 22) rotate(-2)"><rect x="5" y="5" width="270" height="31" fill="#080505"/><rect width="270" height="31" fill="#edb271"/><text x="13" y="21" fill="#160f0e" font-family="monospace" font-size="15" font-weight="bold">HELLO, WORLD. / @DHRUV-BAMAL</text></g>
+<text x="35" y="145" fill="#9c493e" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="94" letter-spacing="-5">DHRUV BAMAL</text>
+<text x="30" y="140" fill="#f5dfbd" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="94" letter-spacing="-5">DHRUV BAMAL</text>
+<g transform="translate(36 168) rotate(-1)"><rect x="5" y="5" width="641" height="42" fill="#080505"/><rect width="641" height="42" fill="#bc8b60"/><text x="15" y="28" fill="#160f0e" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="23">BUILD WITH LOGIC. CREATE WITH CURIOSITY.</text></g>
+<text x="36" y="250" fill="#f5dfbd" font-family="monospace" font-size="17">BACKEND ENGINEERING / SOFTWARE / DATA ANALYTICS</text>
+<path d="M36 273H665" stroke="#73523e"/>
+<text x="36" y="302" fill="#edb271" font-family="monospace" font-size="15">SRM IST ’27</text><text x="235" y="302" fill="#cdb29b" font-family="monospace" font-size="15">THINK → BUILD → UNDERSTAND</text>
+<!-- Original vector mascot: a terminal with a bat cowl and a cape. -->
+<circle cx="958" cy="158" r="120" fill="url(#glow)" stroke="#d1a16a" stroke-width="2"/>
+<path d="M865 140L817 297Q854 268 882 305Q918 274 951 312Q984 274 1015 304Q1050 270 1095 293L1051 136Z" fill="#0e0909" stroke="#39221c" stroke-width="3"/>
+<g transform="translate(849 68) rotate(7 110 100)">
+ <rect x="8" y="8" width="214" height="185" rx="17" fill="#080505"/>
+ <rect width="214" height="185" rx="16" fill="#dca064" stroke="#0e0909" stroke-width="5"/>
+ <path d="M0 32H214" stroke="#160f0e" stroke-width="4"/>
+ <circle cx="18" cy="16" r="4" fill="#9c493e"/><circle cx="33" cy="16" r="4" fill="#160f0e"/><circle cx="48" cy="16" r="4" fill="#160f0e"/>
+ <rect x="17" y="45" width="180" height="113" rx="8" fill="#f4b577"/>
+ <path d="M17 111L21-39L65 49Q110 32 152 50L194-39L197 111L169 125L133 115L107 136L81 115L45 125Z" fill="#100909"/>
+ <path d="M48 88L88 101Q64 120 48 88M165 88L126 101Q151 120 165 88" fill="#f4b577"/>
+ <path d="M57 125L53 137M67 127L63 139M153 126L149 138M163 123L159 135" stroke="#a64a45" stroke-width="4" stroke-linecap="round"/>
+ <path d="M91 146Q108 139 125 146" fill="none" stroke="#382019" stroke-width="3" stroke-linecap="round"/>
+ <text x="19" y="176" font-family="monospace" font-size="11" fill="#160f0e">CURIOSITY.EXE</text>
+ <rect x="177" y="169" width="20" height="5" fill="#9c493e"><animate attributeName="opacity" values="1;1;0;0;1" dur="2.6s" repeatCount="indefinite"/></rect>
+</g>
+<g fill="#bd4e42" stroke="#160f0e" stroke-width="3" stroke-linejoin="round">
+ <path d="M801 102Q775 77 785 68Q796 60 801 78Q806 59 818 67Q832 77 801 102Z" transform="rotate(-12 801 85)"/>
+ <path d="M1122 190Q1096 165 1106 156Q1117 148 1122 166Q1127 147 1139 155Q1153 165 1122 190Z" transform="rotate(13 1122 173)"/>
+</g>
+<g transform="translate(1101 273) rotate(-12)"><rect x="4" y="4" width="67" height="42" fill="#080505"/><rect width="67" height="42" fill="#ba7b50" stroke="#160f0e" stroke-width="2"/><text x="10" y="29" fill="#160f0e" font-family="monospace" font-weight="bold" font-size="25">{ }</text></g>
+<text x="820" y="326" fill="#e8c6a3" font-family="monospace" font-size="12">A LITTLE MYSTERY. A LOT OF CURIOSITY.</text>
+</svg>
