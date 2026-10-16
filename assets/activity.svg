@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
 <title id="t">Dhruv’s GitHub statistics and contribution trend</title>
-<desc id="d">872 contributions over 365 days, 19 public repositories, 0 stars on owned non-fork public repositories, 23 followers. Line chart: contribution totals per Monday-Sunday week. Edge weeks are partial. Refreshed 15 Oct 2026 UTC.</desc>
+<desc id="d">874 contributions over 365 days, 19 public repositories, 0 stars on owned non-fork public repositories, 23 followers. Line chart: contribution totals per Monday-Sunday week. Edge weeks are partial. Refreshed 16 Oct 2026 UTC.</desc>
 <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#edb271" stop-opacity="0.24"/><stop offset="1" stop-color="#edb271" stop-opacity="0.015"/></linearGradient></defs>
 <rect x="1" y="1" width="1198" height="458" rx="13" fill="#160f0e" stroke="#73523e" stroke-width="2"/>
-<text x="30" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#edb271">872</text>
+<text x="30" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#edb271">874</text>
 <text x="30" y="88" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">CONTRIBUTIONS / 365 DAYS</text>
 <text x="323" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#bc8b60">19</text>
 <text x="323" y="88" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">PUBLIC REPOSITORIES</text>
@@ -16,7 +16,7 @@
 <path d="M889 27V94" stroke="#4d352b"/>
 <path d="M30 111H1170" stroke="#4d352b"/>
 <text x="30" y="143" text-anchor="start" font-family="monospace" font-size="16" font-weight="bold" fill="#edb271">A YEAR OF BUILDING</text>
-<text x="1168" y="143" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">REFRESHED 15 OCT 2026 / UTC</text>
+<text x="1168" y="143" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">REFRESHED 16 OCT 2026 / UTC</text>
 <text x="74" y="179" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" fill="#cdb29b">Contributions / week</text>
 <path d="M74 356.00H1150" stroke="#3b2921" stroke-width="1"/>
 <text x="61" y="360.0" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">0</text>
@@ -26,9 +26,9 @@
 <text x="61" y="257.33" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">100</text>
 <path d="M74 202.00H1150" stroke="#3b2921" stroke-width="1"/>
 <text x="61" y="206.0" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">150</text>
-<polygon points="74,356 74.00,356.00 94.69,356.00 115.38,356.00 136.08,356.00 156.77,356.00 177.46,356.00 198.15,356.00 218.85,356.00 239.54,356.00 260.23,356.00 280.92,356.00 301.62,356.00 322.31,356.00 343.00,356.00 363.69,354.97 384.38,356.00 405.08,356.00 425.77,356.00 446.46,356.00 467.15,356.00 487.85,356.00 508.54,356.00 529.23,356.00 549.92,356.00 570.62,347.79 591.31,349.84 612.00,356.00 632.69,354.97 653.38,354.97 674.08,356.00 694.77,356.00 715.46,356.00 736.15,356.00 756.85,356.00 777.54,356.00 798.23,349.84 818.92,328.28 839.62,331.36 860.31,271.81 881.00,305.69 901.69,329.31 922.38,323.15 943.08,273.87 963.77,236.91 984.46,277.97 1005.15,289.27 1025.85,320.07 1046.54,248.20 1067.23,318.01 1087.92,344.71 1108.62,325.20 1129.31,308.77 1150.00,347.79 1150,356" fill="url(#area)"/>
+<polygon points="74,356 74.00,356.00 94.69,356.00 115.38,356.00 136.08,356.00 156.77,356.00 177.46,356.00 198.15,356.00 218.85,356.00 239.54,356.00 260.23,356.00 280.92,356.00 301.62,356.00 322.31,356.00 343.00,356.00 363.69,354.97 384.38,356.00 405.08,356.00 425.77,356.00 446.46,356.00 467.15,356.00 487.85,356.00 508.54,356.00 529.23,356.00 549.92,356.00 570.62,347.79 591.31,349.84 612.00,356.00 632.69,354.97 653.38,354.97 674.08,356.00 694.77,356.00 715.46,356.00 736.15,356.00 756.85,356.00 777.54,356.00 798.23,349.84 818.92,328.28 839.62,331.36 860.31,271.81 881.00,305.69 901.69,329.31 922.38,323.15 943.08,273.87 963.77,236.91 984.46,277.97 1005.15,289.27 1025.85,320.07 1046.54,248.20 1067.23,318.01 1087.92,344.71 1108.62,325.20 1129.31,308.77 1150.00,345.73 1150,356" fill="url(#area)"/>
 <polyline points="74.00,356.00 94.69,356.00 115.38,356.00 136.08,356.00 156.77,356.00 177.46,356.00 198.15,356.00 218.85,356.00 239.54,356.00 260.23,356.00 280.92,356.00 301.62,356.00 322.31,356.00 343.00,356.00 363.69,354.97 384.38,356.00 405.08,356.00 425.77,356.00 446.46,356.00 467.15,356.00 487.85,356.00 508.54,356.00 529.23,356.00 549.92,356.00 570.62,347.79 591.31,349.84 612.00,356.00 632.69,354.97 653.38,354.97 674.08,356.00 694.77,356.00 715.46,356.00 736.15,356.00 756.85,356.00 777.54,356.00 798.23,349.84 818.92,328.28 839.62,331.36 860.31,271.81 881.00,305.69 901.69,329.31 922.38,323.15 943.08,273.87 963.77,236.91 984.46,277.97 1005.15,289.27 1025.85,320.07 1046.54,248.20 1067.23,318.01 1087.92,344.71 1108.62,325.20 1129.31,308.77" fill="none" stroke="#edb271" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M1129.31 308.77L1150.00 347.79" stroke="#edb271" stroke-width="3" stroke-dasharray="5 5" fill="none"/>
+<path d="M1129.31 308.77L1150.00 345.73" stroke="#edb271" stroke-width="3" stroke-dasharray="5 5" fill="none"/>
 <path d="M74.00 356V361" stroke="#73523e"/>
 <text x="74.0" y="381" text-anchor="middle" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">Oct 25</text>
 <path d="M136.08 356V361" stroke="#73523e"/>
@@ -55,7 +55,7 @@
 <text x="1046.54" y="381" text-anchor="middle" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">Sep</text>
 <path d="M1129.31 356V361" stroke="#73523e"/>
 <text x="1129.31" y="381" text-anchor="middle" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">Oct</text>
-<circle cx="74.00" cy="356.00" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2025-10-16 to 2025-10-19: 0 contributions, partial week</title></circle>
+<circle cx="74.00" cy="356.00" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2025-10-17 to 2025-10-19: 0 contributions, partial week</title></circle>
 <circle cx="94.69" cy="356.00" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2025-10-20 to 2025-10-26: 0 contributions</title></circle>
 <circle cx="115.38" cy="356.00" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2025-10-27 to 2025-11-02: 0 contributions</title></circle>
 <circle cx="136.08" cy="356.00" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2025-11-03 to 2025-11-09: 0 contributions</title></circle>
@@ -107,8 +107,8 @@
 <circle cx="1087.92" cy="344.71" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2026-09-21 to 2026-09-27: 11 contributions</title></circle>
 <circle cx="1108.62" cy="325.20" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2026-09-28 to 2026-10-04: 30 contributions</title></circle>
 <circle cx="1129.31" cy="308.77" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2026-10-05 to 2026-10-11: 46 contributions</title></circle>
-<circle cx="1150.00" cy="347.79" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2026-10-12 to 2026-10-15: 8 contributions, partial week</title></circle>
+<circle cx="1150.00" cy="345.73" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2026-10-12 to 2026-10-16: 10 contributions, partial week</title></circle>
 <text x="612" y="406" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" fill="#cdb29b">Week · Monday–Sunday</text>
-<text x="30" y="438" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">16 Oct 2025 — 15 Oct 2026 / PUBLIC GITHUB DATA</text>
+<text x="30" y="438" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">17 Oct 2025 — 16 Oct 2026 / PUBLIC GITHUB DATA</text>
 <text x="1170" y="438" text-anchor="end" font-family="monospace" font-size="11" font-weight="normal" fill="#cdb29b">EDGE WEEKS PARTIAL · DAILY REFRESH</text>
 </svg>
