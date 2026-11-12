@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
 <title id="t">Dhruv’s GitHub statistics and contribution trend</title>
-<desc id="d">1020 contributions over 365 days, 18 public repositories, 0 stars on owned non-fork public repositories, 22 followers. Line chart: contribution totals per Monday-Sunday week. Edge weeks are partial. Refreshed 11 Nov 2026 UTC.</desc>
+<desc id="d">1050 contributions over 365 days, 19 public repositories, 0 stars on owned non-fork public repositories, 22 followers. Line chart: contribution totals per Monday-Sunday week. Edge weeks are partial. Refreshed 12 Nov 2026 UTC.</desc>
 <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#edb271" stop-opacity="0.24"/><stop offset="1" stop-color="#edb271" stop-opacity="0.015"/></linearGradient></defs>
 <rect x="1" y="1" width="1198" height="458" rx="13" fill="#160f0e" stroke="#73523e" stroke-width="2"/>
-<text x="30" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#edb271">1,020</text>
+<text x="30" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#edb271">1,050</text>
 <text x="30" y="88" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">CONTRIBUTIONS / 365 DAYS</text>
-<text x="323" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#bc8b60">18</text>
+<text x="323" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#bc8b60">19</text>
 <text x="323" y="88" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">PUBLIC REPOSITORIES</text>
 <path d="M303 27V94" stroke="#4d352b"/>
 <text x="616" y="62" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="bold" fill="#c35849">0</text>
@@ -16,7 +16,7 @@
 <path d="M889 27V94" stroke="#4d352b"/>
 <path d="M30 111H1170" stroke="#4d352b"/>
 <text x="30" y="143" text-anchor="start" font-family="monospace" font-size="16" font-weight="bold" fill="#edb271">A YEAR OF BUILDING</text>
-<text x="1168" y="143" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">REFRESHED 11 NOV 2026 / UTC</text>
+<text x="1168" y="143" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">REFRESHED 12 NOV 2026 / UTC</text>
 <text x="74" y="179" text-anchor="start" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="normal" fill="#cdb29b">Contributions / week</text>
 <path d="M74 356.00H1150" stroke="#3b2921" stroke-width="1"/>
 <text x="61" y="360.0" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">0</text>
@@ -26,9 +26,9 @@
 <text x="61" y="257.33" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">100</text>
 <path d="M74 202.00H1150" stroke="#3b2921" stroke-width="1"/>
 <text x="61" y="206.0" text-anchor="end" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">150</text>
-<polygon points="74,356 74.00,356.00 94.69,356.00 115.38,356.00 136.08,356.00 156.77,356.00 177.46,356.00 198.15,356.00 218.85,356.00 239.54,356.00 260.23,356.00 280.92,354.97 301.62,356.00 322.31,356.00 343.00,356.00 363.69,356.00 384.38,356.00 405.08,356.00 425.77,356.00 446.46,356.00 467.15,356.00 487.85,347.79 508.54,349.84 529.23,356.00 549.92,354.97 570.62,354.97 591.31,356.00 612.00,356.00 632.69,356.00 653.38,356.00 674.08,356.00 694.77,356.00 715.46,349.84 736.15,328.28 756.85,331.36 777.54,271.81 798.23,305.69 818.92,329.31 839.62,323.15 860.31,273.87 881.00,236.91 901.69,277.97 922.38,289.27 943.08,320.07 963.77,248.20 984.46,318.01 1005.15,344.71 1025.85,325.20 1046.54,308.77 1067.23,321.09 1087.92,356.00 1108.62,334.44 1129.31,324.17 1150.00,284.13 1150,356" fill="url(#area)"/>
+<polygon points="74,356 74.00,356.00 94.69,356.00 115.38,356.00 136.08,356.00 156.77,356.00 177.46,356.00 198.15,356.00 218.85,356.00 239.54,356.00 260.23,356.00 280.92,354.97 301.62,356.00 322.31,356.00 343.00,356.00 363.69,356.00 384.38,356.00 405.08,356.00 425.77,356.00 446.46,356.00 467.15,356.00 487.85,347.79 508.54,349.84 529.23,356.00 549.92,354.97 570.62,354.97 591.31,356.00 612.00,356.00 632.69,356.00 653.38,356.00 674.08,356.00 694.77,356.00 715.46,349.84 736.15,328.28 756.85,331.36 777.54,271.81 798.23,305.69 818.92,329.31 839.62,323.15 860.31,273.87 881.00,236.91 901.69,277.97 922.38,289.27 943.08,320.07 963.77,248.20 984.46,318.01 1005.15,344.71 1025.85,325.20 1046.54,308.77 1067.23,321.09 1087.92,356.00 1108.62,334.44 1129.31,324.17 1150.00,253.33 1150,356" fill="url(#area)"/>
 <polyline points="74.00,356.00 94.69,356.00 115.38,356.00 136.08,356.00 156.77,356.00 177.46,356.00 198.15,356.00 218.85,356.00 239.54,356.00 260.23,356.00 280.92,354.97 301.62,356.00 322.31,356.00 343.00,356.00 363.69,356.00 384.38,356.00 405.08,356.00 425.77,356.00 446.46,356.00 467.15,356.00 487.85,347.79 508.54,349.84 529.23,356.00 549.92,354.97 570.62,354.97 591.31,356.00 612.00,356.00 632.69,356.00 653.38,356.00 674.08,356.00 694.77,356.00 715.46,349.84 736.15,328.28 756.85,331.36 777.54,271.81 798.23,305.69 818.92,329.31 839.62,323.15 860.31,273.87 881.00,236.91 901.69,277.97 922.38,289.27 943.08,320.07 963.77,248.20 984.46,318.01 1005.15,344.71 1025.85,325.20 1046.54,308.77 1067.23,321.09 1087.92,356.00 1108.62,334.44 1129.31,324.17" fill="none" stroke="#edb271" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M1129.31 324.17L1150.00 284.13" stroke="#edb271" stroke-width="3" stroke-dasharray="5 5" fill="none"/>
+<path d="M1129.31 324.17L1150.00 253.33" stroke="#edb271" stroke-width="3" stroke-dasharray="5 5" fill="none"/>
 <path d="M74.00 356V361" stroke="#73523e"/>
 <text x="74.0" y="381" text-anchor="middle" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">Nov 25</text>
 <path d="M136.08 356V361" stroke="#73523e"/>
@@ -55,7 +55,7 @@
 <text x="1046.54" y="381" text-anchor="middle" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">Oct</text>
 <path d="M1129.31 356V361" stroke="#73523e"/>
 <text x="1129.31" y="381" text-anchor="middle" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">Nov</text>
-<circle cx="74.00" cy="356.00" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2025-11-12 to 2025-11-16: 0 contributions, partial week</title></circle>
+<circle cx="74.00" cy="356.00" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2025-11-13 to 2025-11-16: 0 contributions, partial week</title></circle>
 <circle cx="94.69" cy="356.00" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2025-11-17 to 2025-11-23: 0 contributions</title></circle>
 <circle cx="115.38" cy="356.00" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2025-11-24 to 2025-11-30: 0 contributions</title></circle>
 <circle cx="136.08" cy="356.00" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2025-12-01 to 2025-12-07: 0 contributions</title></circle>
@@ -107,8 +107,8 @@
 <circle cx="1087.92" cy="356.00" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2026-10-19 to 2026-10-25: 0 contributions</title></circle>
 <circle cx="1108.62" cy="334.44" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2026-10-26 to 2026-11-01: 21 contributions</title></circle>
 <circle cx="1129.31" cy="324.17" r="2.5" fill="#edb271" stroke="#edb271" stroke-width="1.5"><title>2026-11-02 to 2026-11-08: 31 contributions</title></circle>
-<circle cx="1150.00" cy="284.13" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2026-11-09 to 2026-11-11: 70 contributions, partial week</title></circle>
+<circle cx="1150.00" cy="253.33" r="4" fill="#160f0e" stroke="#edb271" stroke-width="1.5"><title>2026-11-09 to 2026-11-12: 100 contributions, partial week</title></circle>
 <text x="612" y="406" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="normal" fill="#cdb29b">Week · Monday–Sunday</text>
-<text x="30" y="438" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">12 Nov 2025 — 11 Nov 2026 / PUBLIC GITHUB DATA</text>
+<text x="30" y="438" text-anchor="start" font-family="monospace" font-size="12" font-weight="normal" fill="#cdb29b">13 Nov 2025 — 12 Nov 2026 / PUBLIC GITHUB DATA</text>
 <text x="1170" y="438" text-anchor="end" font-family="monospace" font-size="11" font-weight="normal" fill="#cdb29b">EDGE WEEKS PARTIAL · DAILY REFRESH</text>
 </svg>
